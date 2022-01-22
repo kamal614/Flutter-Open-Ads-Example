@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_admob_app_open/flutter_admob_app_open.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
 AppOpenAd? openAd;
